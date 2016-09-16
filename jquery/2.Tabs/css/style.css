@@ -1,0 +1,22 @@
+.tabs ul {
+    list-style: none;
+    padding: 0;
+    background-color: gray;
+    font-size: 20px;
+}
+
+.tabs li {
+    display: inline-block;
+    background-color: gray;
+    margin-right: 30px;
+}
+
+.selected {
+    background-color: aquamarine;
+    display: inline-block;
+}
+
+.tabs div {
+    display: none;
+    background-color: aquamarine;
+}
